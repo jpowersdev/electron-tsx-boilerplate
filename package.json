@@ -73,7 +73,7 @@
     "core-js": "3",
     "electron-squirrel-startup": "^1.0.0",
     "eslint": "^6.6.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "styled-jsx": "^3.2.2"
