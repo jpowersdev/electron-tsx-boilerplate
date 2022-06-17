@@ -95,7 +95,7 @@
     "@types/styled-jsx": "^2.2.8",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.0.0",
-    "electron": "7.0.0",
+    "electron": "15.5.5",
     "fork-ts-checker-webpack-plugin": "^2.0.0",
     "node-loader": "^0.6.0",
     "style-loader": "^0.23.1",
